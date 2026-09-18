@@ -1,0 +1,8 @@
+{
+     "ai_api": {
+          "Token": "your-anthropic-api-key"
+     },
+     "openai_api": {
+          "Token": "your-openai-api-key"
+     }
+}
