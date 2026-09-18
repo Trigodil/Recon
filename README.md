@@ -26,7 +26,7 @@ Shows this list of commands as an embed.
 
 ### what / wht
 
-Reply to a message with `what` (or `wht`) to get the AI's take on it.
+Reply to a message with `what` to get the AI's take on it.
 
 ### @Recon
 
