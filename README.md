@@ -4,7 +4,7 @@ Recon is a C# Discord bot built with Discord.Net. This is essentially a learning
 
 ## Personality
 
-Helpful, calm, and powered by an unhealthy amount of coffee. Full personality and rules live in `Instructions/personality.md`.
+Helpful, calm, and slightly unhinged. Full personality and rules live in `Instructions/personality.md`.
 
 ## Commands
 
