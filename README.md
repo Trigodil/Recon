@@ -73,6 +73,10 @@ Recon reads its config from three JSON files that are not checked into the repo.
 dotnet run
 ```
 
+## Notes
+
+Regarding the .json files, the code looks for discord.json, cred.json, and perms.json, not the .example versions, so they must be renamed for the setup of the bot.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
