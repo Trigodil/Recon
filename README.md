@@ -30,7 +30,7 @@ Reply to a message with `what` (or `wht`) to get the AI's take on it.
 
 ### @Recon
 
-Mention the bot directly. Dev only, replies in a more unhinged, friend to friend tone.
+Mention the bot directly. Dev only, replies in a more unhinged tone.
 
 ## Setup
 
